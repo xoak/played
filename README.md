@@ -1,2 +1,2 @@
-# played
-/played - a discord bot for tracking playtime
+# /played
+a discord bot for tracking playtime
